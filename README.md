@@ -14,8 +14,6 @@ This software is not to be installed system wise, but rather used locally.
 	git submodule init
 	fit submodule update
 	make
-	# make may fails once on OpenCV4 system, just re-make once
-	make
 ```
 
 ## Usage
